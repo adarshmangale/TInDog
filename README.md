@@ -23,15 +23,16 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory.
 3. Open `index.html` in your web browser.
 
-Alternatively, you can view the live demo [here](#) (replace with your actual demo link).
-
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
+
 
 ![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+
+
+![Screenshot 3](screenshots/screenshot3.png)
+
 
 ## Contributing
 
